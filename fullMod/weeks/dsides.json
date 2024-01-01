@@ -1,0 +1,32 @@
+{
+	"storyName": "Jaq's Mixes",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekR",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"reno",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"pourin",
+			"dsreno",
+			[
+				118,
+				61,
+				182
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

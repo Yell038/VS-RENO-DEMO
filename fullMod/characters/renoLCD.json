@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "RENO IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "RENO IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RENO LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-33
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RENO DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-3,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RENO UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RENO RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/renoLCD",
+	"position": [
+		40,
+		-20
+	],
+	"healthicon": "reno",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		234,
+		90
+	],
+	"camera_position": [
+		110,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

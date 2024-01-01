@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="reno.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RENO DOWN0000" x="0" y="0" width="378" height="745" frameX="0" frameY="-12" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0001" x="0" y="0" width="378" height="745" frameX="0" frameY="-12" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0002" x="378" y="0" width="366" height="758" frameX="-2" frameY="0" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0003" x="378" y="0" width="366" height="758" frameX="-2" frameY="0" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0004" x="744" y="0" width="366" height="758" frameX="-2" frameY="0" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0005" x="744" y="0" width="366" height="758" frameX="-2" frameY="0" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0006" x="1110" y="0" width="366" height="758" frameX="-2" frameY="0" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0007" x="1110" y="0" width="366" height="758" frameX="-2" frameY="0" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0008" x="1476" y="0" width="366" height="758" frameX="-2" frameY="0" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0009" x="1476" y="0" width="366" height="758" frameX="-2" frameY="0" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0010" x="1476" y="0" width="366" height="758" frameX="-2" frameY="0" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0011" x="1476" y="0" width="366" height="758" frameX="-2" frameY="0" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0012" x="1476" y="0" width="366" height="758" frameX="-2" frameY="0" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO DOWN0013" x="1476" y="0" width="366" height="758" frameX="-2" frameY="0" frameWidth="378" frameHeight="758"/>
+	<SubTexture name="RENO IDLE0000" x="0" y="758" width="360" height="781" frameX="0" frameY="-9" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0001" x="0" y="758" width="360" height="781" frameX="0" frameY="-9" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0002" x="360" y="758" width="353" height="784" frameX="-4" frameY="-6" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0003" x="360" y="758" width="353" height="784" frameX="-4" frameY="-6" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0004" x="713" y="758" width="358" height="787" frameX="-5" frameY="-3" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0005" x="713" y="758" width="358" height="787" frameX="-5" frameY="-3" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0006" x="1071" y="758" width="364" height="789" frameX="-5" frameY="-1" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0007" x="1071" y="758" width="364" height="789" frameX="-5" frameY="-1" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0008" x="1435" y="758" width="365" height="790" frameX="-5" frameY="0" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0009" x="1435" y="758" width="365" height="790" frameX="-5" frameY="0" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0010" x="1435" y="758" width="365" height="790" frameX="-5" frameY="0" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0011" x="1435" y="758" width="365" height="790" frameX="-5" frameY="0" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0012" x="1435" y="758" width="365" height="790" frameX="-5" frameY="0" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO IDLE0013" x="1435" y="758" width="365" height="790" frameX="-5" frameY="0" frameWidth="370" frameHeight="790"/>
+	<SubTexture name="RENO LEFT0000" x="0" y="1548" width="355" height="787" frameX="-1" frameY="-5" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0001" x="0" y="1548" width="355" height="787" frameX="-1" frameY="-5" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0002" x="355" y="1548" width="346" height="792" frameX="0" frameY="0" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0003" x="355" y="1548" width="346" height="792" frameX="0" frameY="0" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0004" x="701" y="1548" width="346" height="792" frameX="0" frameY="0" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0005" x="701" y="1548" width="346" height="792" frameX="0" frameY="0" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0006" x="1047" y="1548" width="346" height="792" frameX="0" frameY="0" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0007" x="1047" y="1548" width="346" height="792" frameX="0" frameY="0" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0008" x="1393" y="1548" width="346" height="792" frameX="0" frameY="0" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0009" x="1393" y="1548" width="346" height="792" frameX="0" frameY="0" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0010" x="1393" y="1548" width="346" height="792" frameX="0" frameY="0" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0011" x="1393" y="1548" width="346" height="792" frameX="0" frameY="0" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0012" x="1393" y="1548" width="346" height="792" frameX="0" frameY="0" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO LEFT0013" x="1393" y="1548" width="346" height="792" frameX="0" frameY="0" frameWidth="356" frameHeight="792"/>
+	<SubTexture name="RENO RIGHT0000" x="0" y="2340" width="413" height="770" frameX="0" frameY="-3" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0001" x="0" y="2340" width="413" height="770" frameX="0" frameY="-3" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0002" x="413" y="2340" width="395" height="773" frameX="-2" frameY="0" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0003" x="413" y="2340" width="395" height="773" frameX="-2" frameY="0" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0004" x="808" y="2340" width="395" height="773" frameX="-2" frameY="0" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0005" x="808" y="2340" width="395" height="773" frameX="-2" frameY="0" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0006" x="1203" y="2340" width="395" height="773" frameX="-2" frameY="0" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0007" x="1203" y="2340" width="395" height="773" frameX="-2" frameY="0" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0008" x="1598" y="2340" width="395" height="773" frameX="-2" frameY="0" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0009" x="1598" y="2340" width="395" height="773" frameX="-2" frameY="0" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0010" x="1598" y="2340" width="395" height="773" frameX="-2" frameY="0" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0011" x="1598" y="2340" width="395" height="773" frameX="-2" frameY="0" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0012" x="1598" y="2340" width="395" height="773" frameX="-2" frameY="0" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO RIGHT0013" x="1598" y="2340" width="395" height="773" frameX="-2" frameY="0" frameWidth="413" frameHeight="773"/>
+	<SubTexture name="RENO UP0000" x="0" y="3113" width="396" height="822"/>
+	<SubTexture name="RENO UP0001" x="0" y="3113" width="396" height="822"/>
+	<SubTexture name="RENO UP0002" x="396" y="3113" width="392" height="812" frameX="0" frameY="-9" frameWidth="396" frameHeight="822"/>
+	<SubTexture name="RENO UP0003" x="396" y="3113" width="392" height="812" frameX="0" frameY="-9" frameWidth="396" frameHeight="822"/>
+	<SubTexture name="RENO UP0004" x="788" y="3113" width="392" height="812" frameX="0" frameY="-9" frameWidth="396" frameHeight="822"/>
+	<SubTexture name="RENO UP0005" x="788" y="3113" width="392" height="812" frameX="0" frameY="-9" frameWidth="396" frameHeight="822"/>
+	<SubTexture name="RENO UP0006" x="1180" y="3113" width="392" height="812" frameX="0" frameY="-9" frameWidth="396" frameHeight="822"/>
+	<SubTexture name="RENO UP0007" x="1180" y="3113" width="392" height="812" frameX="0" frameY="-9" frameWidth="396" frameHeight="822"/>
+	<SubTexture name="RENO UP0008" x="1572" y="3113" width="392" height="812" frameX="0" frameY="-9" frameWidth="396" frameHeight="822"/>
+	<SubTexture name="RENO UP0009" x="1572" y="3113" width="392" height="812" frameX="0" frameY="-9" frameWidth="396" frameHeight="822"/>
+	<SubTexture name="RENO UP0010" x="1572" y="3113" width="392" height="812" frameX="0" frameY="-9" frameWidth="396" frameHeight="822"/>
+	<SubTexture name="RENO UP0011" x="1572" y="3113" width="392" height="812" frameX="0" frameY="-9" frameWidth="396" frameHeight="822"/>
+	<SubTexture name="RENO UP0012" x="1572" y="3113" width="392" height="812" frameX="0" frameY="-9" frameWidth="396" frameHeight="822"/>
+	<SubTexture name="RENO UP0013" x="1572" y="3113" width="392" height="812" frameX="0" frameY="-9" frameWidth="396" frameHeight="822"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+{
+	
+	"image": "Menu_Reno",
+	"position": [
+		50,
+		140
+	],
+	"scale": 0.65,
+	"idle_anim": "Idle",
+	"confirm_anim": "Idle"
+}

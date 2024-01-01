@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Idle",
+	"confirm_anim": "Idle",
+	"position": [
+		-30,
+		100
+	],
+	"scale": 0.45,
+	"image": "Menu_Reno"
+}
