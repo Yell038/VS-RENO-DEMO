@@ -80,6 +80,11 @@
       "dir": null,
       "ref": "master",
       "url": "https://github.com/nebulazorua/linc_luajit"
-    }
+    },
+    {
+      "name": "parallaxlt",
+      "type": "haxelib",
+      "version": null
+    },
   ]
 }
